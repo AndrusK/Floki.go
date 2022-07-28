@@ -27,7 +27,7 @@ var (
 	basePrice     float64
 	basePriceStr  string
 	token         string  = "YOUR_TOKEN_HERE"
-	channelID     string  = "YOUR_CHANNEL_ID_HERE
+	channelID     string  = "YOUR_CHANNEL_ID_HERE"
 	debugMaxPrice float64 = 1000000.000
 	debugMinPrice float64 = 0
 )
